@@ -1,4 +1,4 @@
-FROM ubuntu:17.10
+FROM ubuntu:19.04
 
 ENV GIT_NAME John Example
 ENV GIT_EMAIL john@example.org
